@@ -13,7 +13,7 @@
 -->
 ---
 
-You can find me on [![Twitter][1.2]][1] and [![LinkedIn][2.2]][2].
+<!-- You can find me on [![Twitter][1.2]][1] and [![LinkedIn][2.2]][2].
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
@@ -21,6 +21,7 @@ You can find me on [![Twitter][1.2]][1] and [![LinkedIn][2.2]][2].
 [1]: https://twitter.com/dailydoseofcode
 [2]: https://www.linkedin.com/in/john-cokos/
 
+-->
 
 <!--
 **4a50/4a50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
