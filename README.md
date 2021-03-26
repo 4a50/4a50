@@ -2,7 +2,8 @@
 
 ![4a50's stats](https://github-readme-stats.vercel.app/api?username=4a50&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4a50)](https://github-readme-stats.vercel.app/api/top-langs/?username=4a50)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=4a50&show_icons=true&theme=radical)
+
 
 
 <!--[](https://img.shields.io/badge/Developer-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
